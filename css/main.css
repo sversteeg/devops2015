@@ -67,6 +67,13 @@ td:last-child {
     text-align: left;
 }
 
+table.topics td {
+    font-weight: normal;
+    text-align: center;
+	padding: 2px 10px 2px 10px;
+    font-size: 1em;
+}
+
 p {
     font-size: 14px;
     margin-bottom: 20px;
